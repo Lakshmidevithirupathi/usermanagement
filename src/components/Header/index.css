@@ -1,0 +1,45 @@
+.search-element{
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 5px 0 5px 3px;
+     border-radius: 5px;
+     border-style: solid;
+}
+
+.logo-image{
+    width: 100px;
+    margin-left: 20px;
+}
+
+.add-btn{
+    padding: 6px 12px 6px 12px;
+    font-size: 16px;
+    font-family: Roboto;
+    color: white;
+    background-color: #7f8c8d;
+    border-width: 3px;
+    border-color: white;
+    border-radius: 5px;
+    border-style: solid;
+    margin: 0 20px 0 20px;
+}
+
+.header-container{
+    background-color: transparent;
+    border-style:solid;
+    border-color: white;
+    height:120px ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inputel-and-popup-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

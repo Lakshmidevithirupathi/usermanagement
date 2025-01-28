@@ -1,0 +1,61 @@
+.username-input-element{
+    width: 260px;
+    height: 25px;
+    font-size: 17px;
+    font-family: Roboto;
+    color: black;
+    padding:3px 0 3px 4px;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.input-el-and-label-container{
+    margin-bottom: 10px;
+}
+
+
+.username-label{
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight:500;
+    color: white;
+}
+
+.login-card-container{
+    background-color:#7f8c8d;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px #7f8c8d;
+    padding: 30px;
+}
+
+.login-bg-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://www.miniorange.com/images/user-management/user-management-features.webp");
+    background-size: cover;
+ }
+
+ .submit-btn{
+    width: 90px;
+    height: 35px;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    color: #7f8c8d;
+    border-radius: 5px;
+    border-color:white;
+ }
+
+ .error-msg{
+    color: red;
+    font-family: Roboto;
+    font-size:16px;
+ }
+
+ .submit-btn-container{
+    text-align: start;
+    margin-top: 15px;
+ }
